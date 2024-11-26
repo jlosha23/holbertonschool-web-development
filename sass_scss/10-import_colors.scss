@@ -1,0 +1,13 @@
+/*Color Import*/
+.red {
+    @import url(10-colors.scss);
+    color: $red;
+}
+.green {
+    @import url(10-colors.scss);
+    color: $green;
+}
+.blue {
+    @import url(10-colors.scss);
+    color: $blue;
+}
